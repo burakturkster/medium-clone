@@ -1,0 +1,43 @@
+*   {  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    }
+
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #414141
+}
+
+.m-img {
+    padding-left: 350px;
+    padding-bottom: -600px;
+    height: 455px;
+    line-height: 100px;
+}
+
+h4 {
+    font-size: 16px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h6-cursor{
+   color: rgb(26, 137, 23);
+   padding-top: 25px;
+   font-size: 14px;
+}
+
+.h6-cursor:hover{
+    color: black;
+    cursor: pointer;
+    
+}
